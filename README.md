@@ -45,8 +45,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 ## CODING AND OUTPUT:
-### Developed by : MANIKANDAN.V
-### Reg No : 212224230151
+### Developed by : JASSIR SULTHAN K
+### Reg No : 212224240060
 
 ```python
 
